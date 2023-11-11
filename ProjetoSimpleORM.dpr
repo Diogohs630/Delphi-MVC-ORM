@@ -18,7 +18,12 @@ uses
   projetosimpleorm.model.service.interfaces in 'src\model\service\projetosimpleorm.model.service.interfaces.pas',
   projetosimpleorm.model.service.impl.servicesimpleorm in 'src\model\service\impl\projetosimpleorm.model.service.impl.servicesimpleorm.pas',
   projetosimpleorm.model.resources.impl.factory in 'src\model\resources\impl\projetosimpleorm.model.resources.impl.factory.pas',
-  projetosimpleorm.model.entity.cliente in 'src\model\entity\projetosimpleorm.model.entity.cliente.pas';
+  projetosimpleorm.model.entity.cliente in 'src\model\entity\projetosimpleorm.model.entity.cliente.pas',
+  projetosimpleorm.model.entity.endereco in 'src\model\entity\projetosimpleorm.model.entity.endereco.pas',
+  projetosimpleorm.model.entity.pessoa in 'src\model\entity\projetosimpleorm.model.entity.pessoa.pas',
+  projetosimpleorm.model.entity.produto in 'src\model\entity\projetosimpleorm.model.entity.produto.pas',
+  projetosimpleorm.model.entity.pedido in 'src\model\entity\projetosimpleorm.model.entity.pedido.pas',
+  projetosimpleorm.model.entity.pedidoitens in 'src\model\entity\projetosimpleorm.model.entity.pedidoitens.pas';
 
 {$R *.res}
 
