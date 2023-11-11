@@ -235,6 +235,8 @@ object PagePedidoVenda: TPagePedidoVenda
               Align = alClient
               BevelOuter = bvNone
               TabOrder = 1
+              ExplicitLeft = 5
+              ExplicitTop = 65
               object Label13: TLabel
                 Left = 0
                 Top = 9
